@@ -1,3 +1,6 @@
+""" second user keyboard: w:up/a:left/s:down/d:right """
+
+
 import pygame
 import random
 import time
