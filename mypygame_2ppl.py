@@ -5,7 +5,7 @@ import pygame
 import random
 import time
 import pygame.font 
-
+ 
 class Block(pygame.sprite.Sprite):
     def __init__(self, image, pos):
 
