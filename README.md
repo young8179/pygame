@@ -1,3 +1,5 @@
-# PyGame Starter Kit
+# PyGame
 
-Starter template files for Pygame exercises
+Catching monster pygame
+1. single play
+2. co-operate play
