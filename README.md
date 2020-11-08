@@ -21,16 +21,16 @@ Python
 <br /> 
 
 ## 🕹 How to run
-### 1. Fork this respository
+1. Fork this respository
 Click the Fork button on the upper right-hand side of this repository's page.
-## 2. Clone the repository
+2. Clone the repository
 Under the repository name, click on the code button and copy the clone URL for the repository.
-### 3. Run the file 
+3. Run the file 
 Open the file on Visual Studio Code and run
 
 
 
-## ＃Usage
+## 💻Usage
 ```js
 class Block(pygame.sprite.Sprite):
     def __init__(self, image, pos):
