@@ -7,27 +7,28 @@ This is my first solo project using Python. This PyGame has two modes, single pl
 Python
 
 ## Preview
-<hr>
-single player pygame
+#### :point_down: Single player game
 ![singleplay](https://user-images.githubusercontent.com/69357145/98470583-a7eba400-21b4-11eb-9d60-22f644d26c5d.gif)
-<br>
-Multi player pygame
+
+
+<br /> 
+<br /> 
+
+#### :point_down: Multi player game
 ![multiplay](https://user-images.githubusercontent.com/69357145/98470387-3bbc7080-21b3-11eb-8d71-f0e31d184245.gif)
 
+<br /> 
+<br /> 
+
 # How to run
-## 1. Fork this respository
+### 1. Fork this respository
 Click the Fork button on the upper right-hand side of this repository's page.
 ## 2. Clone the repository
 Under the repository name, click on the code button and copy the clone URL for the repository.
-## 3. Run the file 
+### 3. Run the file 
 Open the file on Visual Studio Code and run
 
-## Installing and running
-``` shell
-shell instruction 3
-shell instruction 4
-...
-```
+
 
 ## Usage
 ```js
@@ -43,6 +44,11 @@ class Block(pygame.sprite.Sprite):
             self.rect.x = random.randint(0, 490)
             self.rect.y = random.randint(0, 490)
 ```
+
+## :page_with_curl: License
+This project is under MIT license. See the [license](https://opensource.org/licenses/MIT) for more information.
+<br /> 
+<br /> 
 
 
 
