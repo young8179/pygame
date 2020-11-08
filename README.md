@@ -1,12 +1,12 @@
-# Catching Monster pygame
+# Monster Catching Pygame
 
-## About the project
+## :book: About the project
 This is my first solo project using Python. This PyGame has two modes, single player and multi player. This monster catching game has five levels, the higher the level, the more monsters. Score is shown of the top left corner and level on the top right corner.
 
-## Used Technologies
+## :hammer_and_wrench: Used Technologies
 Python
 
-## Preview
+## :clipboard: Preview
 #### :point_down: Single player game
 ![multiplay](https://user-images.githubusercontent.com/69357145/98470387-3bbc7080-21b3-11eb-8d71-f0e31d184245.gif)
 
@@ -20,7 +20,7 @@ Python
 <br /> 
 <br /> 
 
-# How to run
+## 🕹 How to run
 ### 1. Fork this respository
 Click the Fork button on the upper right-hand side of this repository's page.
 ## 2. Clone the repository
@@ -30,7 +30,7 @@ Open the file on Visual Studio Code and run
 
 
 
-## Usage
+## ＃Usage
 ```js
 class Block(pygame.sprite.Sprite):
     def __init__(self, image, pos):
