@@ -24,11 +24,11 @@ Python
 
 
 ## 🕹 How to run
-1. Fork this respository
+1. Fork this respository<br>
 Click the Fork button on the upper right-hand side of this repository's page.
-2. Clone the repository
+2. Clone the repository<br>
 Under the repository name, click on the code button and copy the clone URL for the repository.
-3. Run the file 
+3. Run the file <br>
 Open the file on Visual Studio Code and run
 <br>
 
