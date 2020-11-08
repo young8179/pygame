@@ -8,14 +8,14 @@ Python
 
 ## Preview
 #### :point_down: Single player game
-![singleplay](https://user-images.githubusercontent.com/69357145/98470583-a7eba400-21b4-11eb-9d60-22f644d26c5d.gif)
+![multiplay](https://user-images.githubusercontent.com/69357145/98470387-3bbc7080-21b3-11eb-8d71-f0e31d184245.gif)
 
 
 <br /> 
-<br /> 
+
 
 #### :point_down: Multi player game
-![multiplay](https://user-images.githubusercontent.com/69357145/98470387-3bbc7080-21b3-11eb-8d71-f0e31d184245.gif)
+![singleplay](https://user-images.githubusercontent.com/69357145/98470583-a7eba400-21b4-11eb-9d60-22f644d26c5d.gif)
 
 <br /> 
 <br /> 
